@@ -1,0 +1,6 @@
+include flexiconc/docs/flexiconc.md
+include flexiconc/docs/pypi-description.md
+include requirements.txt
+include optional_requirements.txt
+include LICENSE
+include README.md

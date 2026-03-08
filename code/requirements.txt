@@ -1,0 +1,7 @@
+anytree>=2.12.1
+networkx>=3.1
+numpy>=2.0,<3.0
+pandas>=2.2.2,<3.0
+platformdirs>=4.3 
+jsonschema>=4.23.0
+intervaltree>=3.0
