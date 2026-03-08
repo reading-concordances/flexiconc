@@ -1,2 +1,37 @@
-site_name: My Docs
+site_name: FlexiConc
 site_dir: ../site
+theme:
+  name: material
+  language: en
+
+nav:
+  - General: index.md
+  - FlexiConc for Users:
+      - Loading Concordances: loading_concordances.md
+      - Adding Nodes: adding_nodes.md
+      - Jupyter Notebook Utilities: notebook_utils.md
+      - Loading Texts: loading_texts.md
+  - FlexiConc for Developers:
+      - Representing Concordances: representing_concordances.md
+      - Concordance Views: concordance_views.md
+  - Algorithms:
+      - Selecting: algorithms/selecting.md
+      - Sorting: algorithms/sorting.md
+      - Ranking: algorithms/ranking.md
+      - Partitioning: algorithms/partitioning.md
+      - Annotation: algorithms/annotation.md
+  # - Examples: examples.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - mkdocs-jupyter
