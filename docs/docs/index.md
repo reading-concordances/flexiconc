@@ -6,7 +6,7 @@ This guide provides a comprehensive overview of FlexiConc, a Python package to s
 
 ## Introduction
 
-**FlexiConc** is a Python package developed to support corpus linguists by automating and simplifying the analysis of concordances—lists of text segments centered around keywords or query matches. The package is informed by theoretical insights from the “Reading Concordances in the 21st Century” research project, supported by the Arts and Humanities Research Council (AHRC, grant reference: AH/X002047/1) and the Deutsche Forschungsgemeinschaft (DFG, grant reference: 508235423).
+**FlexiConc** is a Python package developed to support corpus linguists by automating and simplifying the analysis of concordances—lists of text segments centered around keywords or query matches. The package is informed by theoretical insights from the “Reading Concordances in the 21st Century” research project, supported by the Arts and Humanities Research Council (AHRC, grant references: AH/X002047/1 & AH/X002047/2) and the Deutsche Forschungsgemeinschaft (DFG, grant reference: 508235423).
 
 FlexiConc is built to facilitate a reproducible and accountable workflow in corpus research by systematically organizing, filtering, and interpreting concordance data.
 

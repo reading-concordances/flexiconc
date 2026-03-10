@@ -20,6 +20,7 @@ nav:
       - Ranking: algorithms/ranking.md
       - Partitioning: algorithms/partitioning.md
       - Annotation: algorithms/annotation.md
+      # - Creating Own Algorithms: algorithms/creating_own_algorithms.md
   # - Examples: examples.md
 
 markdown_extensions:

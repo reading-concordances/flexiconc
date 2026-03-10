@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 /docs/site/
 /site/
+/docs/docs/_sandbox/
+/code/flexiconc/docs/flexiconc.md
